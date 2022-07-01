@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-### A
+### Theme
+- Lego EV3
+- Statistics
+- python ML 
+- R shiny 
+
