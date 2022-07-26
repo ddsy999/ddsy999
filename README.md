@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-### Theme
-- Lego EV3
+### Interested in ...
 - Statistics
-- python ML 
-- R shiny 
+- Lego EV3
+- python  
+- R  
 
