@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ### Interested in ...
 - Statistics
-- Lego EV3
 - python  
 - R  
-
+- Lego EV3
